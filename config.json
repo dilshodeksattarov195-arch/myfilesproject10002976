@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userserify",
+        "uuid": 29521920,
+        "checksum": "lz72t8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
